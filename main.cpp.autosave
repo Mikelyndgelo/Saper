@@ -1,0 +1,24 @@
+#include<QtWidgets>
+#include"button.h"
+#include<ctime>
+
+int main(int argc, char *argv[])
+{
+    QApplication app(argc, argv);
+    srand(time(NULL));
+
+    Button button;
+    button.show();
+
+
+    return app.exec();
+}
+
+
+
+
+
+
+
+
+
