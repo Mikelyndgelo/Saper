@@ -2,6 +2,7 @@
 #define BUTTON_H
 #include<QWidget>
 #include<QRegExp>
+#include<QLabel>		//Look at work Git
 class QPushButton;
 
 class Button:public QWidget

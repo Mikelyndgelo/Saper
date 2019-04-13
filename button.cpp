@@ -26,6 +26,7 @@ Button::Button(QWidget *parent):QWidget(parent)
     //Обработка нажатия клавиши
     for(int i = 0; i < size*size; i++)
     {
+		int a = 5;//	//проверка коммита
         connect(buttons->at(i),SIGNAL(clicked()),SLOT(Click()));
     }
 }
