@@ -14,12 +14,7 @@ int main(int argc, char *argv[])
     Button button;
     button.show();
 	
-<<<<<<< Updated upstream
-	//second branch
-=======
-	//next
->>>>>>> Stashed changes
-
+	//fuck
     return app.exec();
 }
 
