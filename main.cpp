@@ -20,6 +20,11 @@ int main(int argc, char *argv[])
 	//end test maybe
 	//cherry look
 	
+	/fuck
+	//second different
+	//different which don t commit
+	//end test maybe
+	
     return app.exec();
 }
 
