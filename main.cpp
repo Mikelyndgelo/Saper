@@ -8,10 +8,10 @@
 
 int main(int argc, char *argv[])
 {
-    QApplication app(argc, argv);
-    srand(time(NULL));
+    //QApplication app(argc, argv);
+    sr//and(time(NULL));
 
-    Button button;
+    Butt//on button;
     button.show();
 	
 	//fuck
