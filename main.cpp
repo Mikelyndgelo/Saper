@@ -14,11 +14,7 @@ int main(int argc, char *argv[])
     Button button;
     button.show();
 	
-	//1235445
-<<<<<<< HEAD
-	//test
-=======
->>>>>>> 991c6a2307acdba68332a65b33db67cb35e40e10
+	//next
 
     return app.exec();
 }
